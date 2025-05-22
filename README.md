@@ -21,7 +21,7 @@
 <p align="center">
   <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="React.js" height="50" width="60" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogospng.org%2Flogo-react%2F&psig=AOvVaw2iTkExYq-cvsbb7Yv0-3A_&ust=1748006717406000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjihc6Wt40DFQAAAAAdAAAAABAE">
+  <img align="center" alt="React.js" height="50" width="60" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png">
   <img align="center" alt=".Net" height="50" width="60" src="https://jiripolasek.com/assets/slices/dotnet-logo.png">
   <img align="center" alt="SQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
