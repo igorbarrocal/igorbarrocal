@@ -1,6 +1,6 @@
 <!-- Header Wave -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=#696969&section=header&reversal=true"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=696969&section=header&reversal=true"/>
 </p>
 
 <!-- Typing SVG and Introduction -->
