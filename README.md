@@ -48,5 +48,5 @@
 
 <!-- Footer Wave -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=#696969&section=footer&reversal=true"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=696969&section=footer&reversal=true"/>
 </p>
