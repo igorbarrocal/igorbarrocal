@@ -13,7 +13,7 @@
 
 <!-- About Me -->
 <p align="center">
-  <b>🌟 Desenvolvedor Dev Back-End | Estudante de Análise e Desenvolvimento de Sistemas na FIAP 🌟</b><br>
+  <b>🌟 Desenvolvedor Dev FullStack | Estudante de Análise e Desenvolvimento de Sistemas na FIAP 🌟</b><br>
   <b>💻 Linguagens e Tecnologias: Java, Python, SQL, .Net, React.js 💻</b><br>
   <b>🚀 Apaixonado por resolver desafios tecnológicos e aprender continuamente 🚀</b><br>
 </p>
