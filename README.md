@@ -31,13 +31,15 @@
 
 ## 🚀 Projetos em Destaque
 
-- MotoFácil API 
-  API RESTful em .NET 8 com Oracle, utilizando Clean Architecture e DDD.  
+- **MotoFácil – Sistema de Identificação e Localização de Motos em Pátio**  
+  Projeto completo para gestão de motos em triagem, pátio e oficina, utilizando **ESP32** para rastreamento indoor e backend em .NET/Java. Permite registrar dados das motos na entrada, localizar em tempo real via *ping*, atualizar status (ex.: mecânica → pátio), gerar relatórios (15 ou 30 dias), buscar por placa ou chassi e gerenciar múltiplos pátios.  
   ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) 
+  ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) 
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) 
-  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)  
+  ![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white) 
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black) 
 
-- SafeZone – Plataforma de Prevenção e Resposta a Desastres Naturais  
+- **SafeZone – Plataforma de Prevenção e Resposta a Desastres Naturais**  
   Projeto Global Solution FIAP 2025/1 integrando Java/Spring Boot, .NET, React Native, IoT (Arduino/ESP32), banco de dados relacional e nuvem.  
   ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) 
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) 
