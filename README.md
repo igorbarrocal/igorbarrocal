@@ -46,7 +46,7 @@
   ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB) 
   ![IoT](https://img.shields.io/badge/IoT-00979D?logo=arduino&logoColor=white)  
 
----
+
 
 <!-- GitHub Stats -->
 <p align="center">
