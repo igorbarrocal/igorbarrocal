@@ -1,7 +1,7 @@
 <!-- Typing SVG and Introduction -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=600&size=30&duration=4000&pause=2000&color=0000FF&background=282A36&center=true&vCenter=true&random=false&width=600&height=60&lines=Igor+Dias+Barrocal;FullStack+Developer;Análise+e+Desenvolvimento+de+Sistemas+-+FIAP" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=600&size=30&duration=4000&pause=2000&color=0000FF&background=282A36&center=true&vCenter=true&random=false&width=600&height=60&lines=Igor+Dias+Barrocal;FullStack+Developer" alt="Typing SVG">
   </a>
 </p>
 
