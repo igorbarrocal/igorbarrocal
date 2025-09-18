@@ -19,52 +19,49 @@
 ---
 
 ## 🚀 Projetos
-
 <p align="center">
 
-<a href="https://github.com/igorbarrocal/MOTOFACIL-APP" target="_blank" style="text-decoration: none; color: inherit;">
-  <div style="border: 2px solid #ccc; border-radius: 12px; padding: 16px; width: 320px; display: inline-block; margin: 12px; vertical-align: top; text-align: center;">
-    <h3>🏍️ MotoFácil</h3>
-    <p><b>Sistema de Identificação e Localização de Motos em Pátio</b></p>
-    <p align="left">
-      🔹 Registro de motos na triagem <br>
-      🔹 Localização em tempo real via *ping* <br>
-      🔹 Atualização de status (mecânica → pátio) <br>
-      🔹 Relatórios (15 e 30 dias) <br>
-      🔹 Busca por placa ou chassi <br>
-      🔹 Multi-pátios
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
-      <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
-      <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
-      <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white">
-      <img src="https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white">
-      <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black">
-    </p>
-  </div>
-</a>
+<div style="border: 2px solid #ccc; border-radius: 12px; padding: 16px; width: 320px; display: inline-block; margin: 12px; vertical-align: top; text-align: center;">
+  <h3>
+    <a href="https://github.com/igorbarrocal/MOTOFACIL-APP" target="_blank" style="text-decoration:none; color:inherit;">🏍️ MotoFácil</a>
+  </h3>
+  <p><b>Sistema de Identificação e Localização de Motos em Pátio</b></p>
+  <p align="left">
+    🔹 Registro de motos na triagem <br>
+    🔹 Localização em tempo real via *ping* <br>
+    🔹 Atualização de status (mecânica → pátio) <br>
+    🔹 Relatórios (15 e 30 dias) <br>
+    🔹 Busca por placa ou chassi <br>
+    🔹 Multi-pátios
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
+    <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white">
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black">
+  </p>
+</div>
 
-<a href="https://github.com/igorbarrocal/SafeZone" target="_blank" style="text-decoration: none; color: inherit;">
-  <div style="border: 2px solid #ccc; border-radius: 12px; padding: 16px; width: 320px; display: inline-block; margin: 12px; vertical-align: top; text-align: center;">
-    <h3>🌍 SafeZone</h3>
-    <p><b>Plataforma de Prevenção e Resposta a Desastres Naturais</b></p>
-    <p align="left">
-      🔹 Backend em Java/Spring Boot + .NET <br>
-      🔹 Aplicativo mobile em React Native <br>
-      🔹 IoT com Arduino/ESP32 <br>
-      🔹 Banco de dados relacional + nuvem
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white">
-      <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB">
-      <img src="https://img.shields.io/badge/IoT-00979D?logo=arduino&logoColor=white">
-    </p>
-  </div>
-</a>
-
-</p>
+<div style="border: 2px solid #ccc; border-radius: 12px; padding: 16px; width: 320px; display: inline-block; margin: 12px; vertical-align: top; text-align: center;">
+  <h3>
+    <a href="https://github.com/igorbarrocal/SafeZone" target="_blank" style="text-decoration:none; color:inherit;">🌍 SafeZone</a>
+  </h3>
+  <p><b>Plataforma de Prevenção e Resposta a Desastres Naturais</b></p>
+  <p align="left">
+    🔹 Backend em Java/Spring Boot + .NET <br>
+    🔹 Aplicativo mobile em React Native <br>
+    🔹 IoT com Arduino/ESP32 <br>
+    🔹 Banco de dados relacional + nuvem
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/IoT-00979D?logo=arduino&logoColor=white">
+  </p>
+</div>
 
 
 
