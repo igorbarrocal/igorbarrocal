@@ -22,7 +22,7 @@
 
 <p align="center">
 
-<a href="https://github.com/igorbarrocal/MOTOFACIL-APP" target="_blank">
+<a href="https://github.com/igorbarrocal/MOTOFACIL-APP" target="_blank" style="text-decoration: none; color: inherit;">
   <div style="border: 2px solid #ccc; border-radius: 12px; padding: 16px; width: 320px; display: inline-block; margin: 12px; vertical-align: top; text-align: center;">
     <h3>🏍️ MotoFácil</h3>
     <p><b>Sistema de Identificação e Localização de Motos em Pátio</b></p>
@@ -45,7 +45,7 @@
   </div>
 </a>
 
-<a href="https://github.com/igorbarrocal/SafeZone" target="_blank">
+<a href="https://github.com/igorbarrocal/SafeZone" target="_blank" style="text-decoration: none; color: inherit;">
   <div style="border: 2px solid #ccc; border-radius: 12px; padding: 16px; width: 320px; display: inline-block; margin: 12px; vertical-align: top; text-align: center;">
     <h3>🌍 SafeZone</h3>
     <p><b>Plataforma de Prevenção e Resposta a Desastres Naturais</b></p>
