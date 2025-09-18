@@ -7,6 +7,13 @@
 
 <p align="center">
   <b>🚀 Desenvolvedor FullStack | Estudante de Analise e Desnvolvimento de Sistemas - FIAP 🚀</b>
+  <p align="center">
+🚀 Estudante do último semestre de <b>Análise e Desenvolvimento de Sistemas</b> na FIAP, com experiência em projetos acadêmicos de <b>FullStack, bancos de dados, IoT e soluções em nuvem</b>. Busco desenvolver soluções tecnológicas inovadoras e de impacto positivo. 🚀
+</p>
+
+</p>
+
+
 </p>
 
 ---
